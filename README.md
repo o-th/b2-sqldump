@@ -1,7 +1,8 @@
 # b2-sqldump
 dumps sql database and uploads to a backblaze bucket.
 
-*Below assumes script will be working out of /opt/backups.
+*Below assumes script will be working out of /opt/backups.*
+
 b2-cli
 1. download b2-linux: https://www.backblaze.com/b2/docs/quick_command_line.html
 2. copy to "/opt/backups"

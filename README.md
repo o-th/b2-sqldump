@@ -32,7 +32,7 @@ B2_FOLDER_PATH='[CHANGE_ME]'
 3. add execute permissions (chmod +x b2-linux)
 
 ###### **configure script**
-1. configure b2-sqldump.sh and copy to "/opt/backups"
+1. configure [b2-sqldump.sh](https://github.com/o-th/b2-sqldump/blob/main/b2-sqldump.sh) and copy to "/opt/backups"
 2. add execute permissions (chmod +x b2-sqldump.sh)
 
 ###### **setup cronjob (set for 12:30am system time)**
